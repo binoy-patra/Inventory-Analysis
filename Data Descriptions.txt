@@ -1,0 +1,9 @@
+The dataset consists of two key tables: Sales-Shipment Data and Inventory Stock Data, providing a comprehensive view of supply chain operations.  
+
+1️⃣ Sales-Shipment Data (180,519 rows, 46 columns) captures customer orders, delivery status, sales performance, and profit insights across multiple regions and markets. It includes details like order status, shipment mode, discounts, and customer demographics, enabling deep analysis of sales trends, customer behavior, and logistics efficiency.  
+
+2️⃣ Inventory Stock Data (118 rows, 11 columns) focuses on stock levels, reorder points, lead times, and safety stock, helping assess inventory health and replenishment needs. It highlights demand-supply gaps and stock management efficiency.  
+
+These datasets provide valuable insights into inventory management and sales performance, enabling businesses to optimize stock levels, reduce delays, and improve customer satisfaction. The analysis will focus on inventory replenishment, demand vs. supply trends, lead time efficiency, and overall sales performance to enhance supply chain decision-making. 
+
+Original Link: https://www.kaggle.com/datasets/mohammedazarudheen/supply-chain-inventory-management-data-analyst
